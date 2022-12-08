@@ -1,0 +1,74 @@
+html body {
+    background-image: linear-gradient(rgb(25, 26, 39), #0C0C12);
+    background-color: black;
+    margin-top: 80px;
+}
+
+.movies{
+    margin-top: 10px;
+}
+
+.movies img{
+    border-radius: 8px;
+}
+
+.movies img:hover{
+    border-radius: 8px;
+    padding: 5px;
+    opacity: .5;
+}
+
+.nav-item{
+    margin-left: 20px;
+}
+
+.langganan{
+    padding: 8px;
+    background-color: #FBD640;
+    color: black;
+    border-radius: 5px;
+    opacity: 50%;
+}
+
+.masuk-akun{
+    padding: 8px;
+    background-color: #FBD640;
+    color: black;
+    border-radius: 5px;
+    opacity: 50%;
+}
+
+.carousel-inner{
+    border-radius: 15px;
+}
+
+.navbar{
+    background-color: rgb(25, 26, 39);
+}
+
+footer{
+    margin-top: 50px;
+    background-color: #FBD640;
+    padding: 10px;
+}
+
+footer p{
+    text-align: center;
+    color: black;
+}
+
+#scrolls1{
+    padding-top: 200px;
+}
+
+.row {
+    color: white;
+}
+
+.copyright-nobarin{
+    font-size: 1.5ch;
+}
+
+.container .row .col-7 .row .col a.nav-link:hover {
+    color: yellow;
+}
